@@ -27,6 +27,15 @@ ____________________________________________________________
             Задача 7-ого уровня (sum_of_two_lowest_positive_integers.py)
             Задача 6-ого уровня (your_order_please.py)
 - Leetcode: Задача легкого уровня, 100% по скорости, 8.55% по памяти (find_smallest_letter_greater_than_target.py)
-            Задача среднего уровня, 96.47% по скорости, 28,81% по памяти (container_with_most_water.py)
+            Задача среднего уровня, 96.47% по скорости, 28.81% по памяти (container_with_most_water.py)
 - Практика: Магические методы (classroom.py)
+
+## 01.02.2026 - День 5 - Композиция против наследования
+- Codewars: Задача 8-ого уровня (counting_sheeps.py)
+            Задача 8-ого уровня (how_good_are_you_really.py)
+            Задача 7-ого уровня (ones_and_zeros.py)
+            Задача 6-ого уровня (find_the_unique_number.py)
+- Leetcode: Задача легкого уровня (divide_an_array_into_subarrays_with_minimum_cost_i.py)
+- Практика: Композиция и агрегация (university.py)
+
 
