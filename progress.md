@@ -54,3 +54,7 @@ ____________________________________________________________
 - Codewars: Задача 8-ого уровня (calculate_bmi.py)
             Задача 6-ого уровня (build_tower.py)
             Задача 6-ого уровня (delete_nth.py)
+
+### 09.02.2026 - День 9 -
+- Codewars: Задача 6-ого уровня (highest_scoring_word.py)
+- Leetcode: Задача легкого уровня (remove_duplicates_from_sorted_list.py)
