@@ -96,3 +96,8 @@ ____________________________________________________________
 - Codewars: Задача 7-ого уровня (get_the_middle_character.py)
             Задача 5-ого уровня (rot13.py)
 - Leetcode: Задача легкого уровня (binary_number_with_alternating_bits.py)
+
+### 19.02.2026 - День 19 - 
+- Codewars: Задача 8-ого уровня (beginner_series4_cockroach.py)
+            Задача 5-ого уровня (maximum_subarray_sum.py)
+- Leetcode: Задача легкого уровня (length_of_last_word.py)
