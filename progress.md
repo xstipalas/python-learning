@@ -1,4 +1,4 @@
-# PYTHON (36ч.)
+# PYTHON (38ч.)
 
 ## Описание
 ____________________________________________________________
@@ -41,7 +41,7 @@ ____________________________________________________________
 - Leetcode: Задача легкого уровня (divide_an_array_into_subarrays_with_minimum_cost_i.py)
 - Практика: Композиция и агрегация (university.py)
 
-### 02.02.2026 - День 6 -
+### 02.02.2026 - День 6
 - Codewars: Задача 8-ого уровня (returning_strings.py)
             Задача 7-ого уровня (printer_errors.py)
             Задача 6-ого уровня (detect_pangram.py)
@@ -53,54 +53,54 @@ ____________________________________________________________
 - Leetcode: Задача легкого уровня (single_number.py)
 - Практика: Методы (student3.py)
 
-### 07.02.2026 - День 8 - 
+### 07.02.2026 - День 8
 - Codewars: Задача 8-ого уровня (calculate_bmi.py)
             Задача 6-ого уровня (build_tower.py)
             Задача 6-ого уровня (delete_nth.py)
 
-### 09.02.2026 - День 9 -
+### 09.02.2026 - День 9
 - Codewars: Задача 6-ого уровня (highest_scoring_word.py)
 - Leetcode: Задача легкого уровня (remove_duplicates_from_sorted_list.py)
 
-### 10.02.2026 - День 10 -
+### 10.02.2026 - День 10
 - Codewars: Задача 7-ого уровня (disemvowel_trolls.py)
 - Leetcode: Задача среднего уровня (count_and_say.py)
 
-### 11.02.2026 - День 11 -
+### 11.02.2026 - День 11
 - Codewars: Задача 7-ого уровня (descending_order.py)
             Задача 6-ого уровня (duplicate_encoder.py)
 
-### 12.02.2026 - День 12 -
+### 12.02.2026 - День 12
 - Codewars: Задача 4-ого уровня (ranking_poker_hands.py)
 
-### 13.02.2026 - День 13 -
+### 13.02.2026 - День 13
 - Codewars: Задача 8-ого уровня (beginner_series2_clock.py)
             Задача 6-ого уровня (consecutive_strings.py)
 - Leetcode: Задача среднего уровня, скорость 84.04%, память 63.12% (group_anagrams.py)
             Задача среднего уровня (pow_x_n.py)
 
-### 14.02.2026 - День 14 - 
+### 14.02.2026 - День 14
 - Codewars: Задача 7-ого уровня (number_of_people_in_the_bus.py)
             Задача 7-ого уровня (mumbling.py)
             Задача 6-ого уровня (sort_the_odd.py)
 
-### 15.02.2026 - День 15 -
+### 15.02.2026 - День 15
 - Codewars: Задача 8-ого уровня (invert_values.py)
             Задача 8-ого уровня (opposites_attract.py)
             Задача 7-ого уровня (beginner_series3_sum_of_numbers.py)
 
-### 16.02.2026 - День 16 -
+### 16.02.2026 - День 16
 - Codewars: Задача 7-ого уровня (list_filtering.py)
 
-### 17.02.2026 - День 17 -
+### 17.02.2026 - День 17
 - Codewars: Задача 6-ого уровня (replace_with_alphabet_position.py)
 
-### 18.02.2026 - День 18 -
+### 18.02.2026 - День 18
 - Codewars: Задача 7-ого уровня (get_the_middle_character.py)
             Задача 5-ого уровня (rot13.py)
 - Leetcode: Задача легкого уровня (binary_number_with_alternating_bits.py)
 
-### 19.02.2026 - День 19 - 
+### 19.02.2026 - День 19
 - Codewars: Задача 8-ого уровня (beginner_series4_cockroach.py)
             Задача 5-ого уровня (maximum_subarray_sum.py)
 - Leetcode: Задача легкого уровня (length_of_last_word.py)
@@ -129,3 +129,12 @@ ____________________________________________________________
             Задача легкого уровня (find_the_index_of_the_first_occurrence_in_a_string.py)
 - Практика: Датаклассы (house_class.py)
 - Проект: Исправлены ошибки, добавлены документация и типизация (rps.py)
+
+### 26.02.2026 - День 24
+- Codewars: Задача 8-ого уровня (switch_it_up.py)
+            Задача 8-ого уровня (reversed_sequence.py)
+            Задача 8-ого уровня (is_it_even.py)
+            Задача 5-ого уровня (directions_reduction.py)
+- Leetcode: Задача среднего уровня (number_of_steps_to_reduce_a_number_in_binary_representation_to_one.py)
+- Практика: Поразрядные операции с числами (bitwise_operations.py)
+            Повторение датаклассов
