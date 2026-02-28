@@ -1,4 +1,4 @@
-# PYTHON (38ч.)
+# PYTHON (44ч.)
 
 ## Описание
 ____________________________________________________________
@@ -138,3 +138,19 @@ ____________________________________________________________
 - Leetcode: Задача среднего уровня (number_of_steps_to_reduce_a_number_in_binary_representation_to_one.py)
 - Практика: Поразрядные операции с числами (bitwise_operations.py)
             Повторение датаклассов
+
+### 27.02.2026 - День 25
+- Codewars: Задача 8-ого уровня (return_negative.py)
+            Задача 8-ого уровня (convert_boolean_values_to_strings_yes_or_no.py)
+            Задача 6-ого уровня (find_the_odd_int.py)
+            Задача 6-ого уровня (take_a_number_and_sum_its_digits_raised_to_the_consecutive_powers_and_eureka.py)
+- Leetcode: Задача легкого уровня, 100% по скорости, 81.16% по памяти (word_pattern.py)
+
+### 28.02.2026 - День 26
+- Codewars: Задача 7-ого уровня (find_the_stray_number.py)
+            Задача 7-ого уровня (odd_or_even.py)
+            Задача 6-ого уровня (write_number_in_expanded_form.py)
+- Leetcode: Задача среднего уровня, 67.30% по скорости, 91.82% по памяти (concatenation_of_consecutive_binary_numbers.py)
+            Задача среднего уровня, 69.66% по скорости, 79.06% по памяти (maximum_substrings_with_distinct_start.py)
+- Практика: Область видимости переменных (scope.py)
+            Замыкания (closure.py)
