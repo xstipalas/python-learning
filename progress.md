@@ -55,9 +55,9 @@
 ## ⚔️ Codewars
 
 ### Статистика по уровням сложности
-- **8 kyu:** 22 задачи
+- **8 kyu:** 24 задачи
 - **7 kyu:** 18 задач
-- **6 kyu:** 23 задачи
+- **6 kyu:** 24 задачи
 - **5 kyu:** 4 задачи
 - **4 kyu:** 2 задачи
 
@@ -102,7 +102,7 @@
 | 25.02 | 7 kyu: `square_every_digit.py` • 6 kyu: `break_camelcase.py`, `two_sum.py` |
 | 26.02 | 8 kyu: `switch_it_up.py`, `reversed_sequence.py`, `is_it_even.py` • 5 kyu: `directions_reduction.py` |
 
-#### Неделя 5 (27.02 - 04.03)
+#### Неделя 5 (27.02 - 05.03)
 | Дата | Задачи |
 |------|--------|
 | 27.02 | 8 kyu: `return_negative.py`, `convert_boolean_values_to_strings_yes_or_no.py` • 6 kyu: `find_the_odd_int.py`, `take_a_number_and_sum_its_digits_raised_to_the_consecutive_powers_and_eureka.py` |
@@ -111,14 +111,15 @@
 | 02.03 | 8 kyu: `count_of_positives_sum_of_negatives.py`, `make_upper_case.py`, `reverse_list_order.py` • 6 kyu: `bouncing_balls.py` |
 | 03.03 | 7 kyu: `find_the_middle_element.py` • 6 kyu: `take_a_ten_minutes_walk.py` |
 | 04.03 | 8 kyu: `even_or_odd.py`, `name_shuffler.py`, `grasshopper_terminal_game_move_function.py` • 6 kyu: `simple_encryption_alternating_split.py` |
+| 05.03 | 8 kyu: `abbreviate_a_two_word_name.py`, `beginner_lost_without_a_map.py` • 6 kyu: `give_me_a_diamond.py` |
 
 ---
 
 ## 💻 Leetcode
 
 ### Статистика
-- **Easy:** 16 задач
-- **Medium:** 9 задач
+- **Easy:** 19 задач
+- **Medium:** 10 задач
 
 ### Детальный лог
 
@@ -151,6 +152,10 @@
 | 02.03 | Easy | `find_the_maximum_achievable_number.py` | 100% скорость, 88.56% память |
 | 02.03 | Medium | `minimum_swaps_to_arrange_a_binary_grid.py` | 37.88% скорость, 87.88% память |
 | 04.03 | Easy | `build_array_from_permutation.py` | 52.43% скорость, 85.74% память |
+| 05.03 | Easy | `restore_finishing_order.py` | 100% скорость, 58.75% память |
+| 05.03 | Easy | `divisible_and_non_divisible_sums_difference.py` | 100% скорость, 92.31% память |
+| 05.03 | Easy | `find_minimum_operations_to_make_all_elements_divisible_by_three.py` | 100% скорость, 92.31% память |
+| 05.03 | Medium | `partition_array_according_to_given_pivot.py` | 96.38% скорость, 82.93% память |
 
 ---
 
