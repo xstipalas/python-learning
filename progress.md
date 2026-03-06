@@ -1,4 +1,4 @@
-# 🐍 PYTHON (49ч.)
+# 🐍 PYTHON (53ч.)
 
 ## 📌 Описание
 ---
@@ -55,10 +55,10 @@
 ## ⚔️ Codewars
 
 ### Статистика по уровням сложности
-- **8 kyu:** 24 задачи
+- **8 kyu:** 27 задач
 - **7 kyu:** 18 задач
 - **6 kyu:** 24 задачи
-- **5 kyu:** 4 задачи
+- **5 kyu:** 5 задач
 - **4 kyu:** 2 задачи
 
 ### Детальный лог
@@ -113,19 +113,24 @@
 | 04.03 | 8 kyu: `even_or_odd.py`, `name_shuffler.py`, `grasshopper_terminal_game_move_function.py` • 6 kyu: `simple_encryption_alternating_split.py` |
 | 05.03 | 8 kyu: `abbreviate_a_two_word_name.py`, `beginner_lost_without_a_map.py` • 6 kyu: `give_me_a_diamond.py` |
 
+### Неделя 6 (06.03 - 12.03)
+| Дата | Задачи |
+|------|--------|
+| 06.03 | 8 kyu: `count_by_x.py` `super_duper_easy.py`, `total_amount_of_points.py` • 5 kyu: `calculating_with_functions.py` |
+
 ---
 
 ## 💻 Leetcode
 
 ### Статистика
-- **Easy:** 19 задач
-- **Medium:** 10 задач
+- **Easy:** 22 задач
+- **Medium:** 12 задач
 
 ### Детальный лог
 
 | Дата | Уровень | Задача | Показатели |
 |------|---------|--------|------------|
-| 28.01 | Easy | `renove_element.py` | 100% скорость, 8.41% память |
+| 28.01 | Easy | `remove_element.py` | 100% скорость, 8.41% память |
 | 29.01 | Easy | `add_binary.py` | 100% скорость, 7% память |
 | 30.01 | Medium | `reverse_integer.py` | — |
 | 31.01 | Easy | `find_smallest_letter_greater_than_target.py` | 100% скорость, 8.55% память |
@@ -156,6 +161,9 @@
 | 05.03 | Easy | `divisible_and_non_divisible_sums_difference.py` | 100% скорость, 92.31% память |
 | 05.03 | Easy | `find_minimum_operations_to_make_all_elements_divisible_by_three.py` | 100% скорость, 92.31% память |
 | 05.03 | Medium | `partition_array_according_to_given_pivot.py` | 96.38% скорость, 82.93% память |
+| 06.03 | Easy | `check_if_binary_string_has_at_most_one_segment_of_ones.py` | 100% скорость, 41.18% память |
+| 06.03 | Easy | `convert_the_temperature.py` | 100% скорость, 42.96% память |
+| 06.03 | Easy | `find_words_containing_character.py` | 100% скорость, 56.23% память |
 
 ---
 
@@ -179,6 +187,9 @@
 - **Область видимости:** (`scope.py`, 28.02)
 - **Датаклассы:** (`house_class.py`, 25.02), повторение (26.02)
 
+### Django
+- **Введение**: Установка, создание проектов, приложений (06.03)
+
 ---
 
 ## 📊 Общая статистика
@@ -189,4 +200,4 @@
 | **Leetcode** | 25 задач | Easy: 16, Medium: 9 |
 | **Практика** | 12 тем | ООП, декораторы, датаклассы и др. |
 
-**Прогресс:** 30 дней обучения, 49 часов
+**Прогресс:** 32 дня обучения, 53 часа
