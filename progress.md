@@ -1,4 +1,4 @@
-# 🐍 PYTHON (53ч.)
+# 🐍 PYTHON (59ч.)
 
 ## 📌 Описание
 ---
@@ -55,9 +55,9 @@
 ## ⚔️ Codewars
 
 ### Статистика по уровням сложности
-- **8 kyu:** 27 задач
-- **7 kyu:** 18 задач
-- **6 kyu:** 24 задачи
+- **8 kyu:** 32 задач
+- **7 kyu:** 24 задачи
+- **6 kyu:** 27 задач
 - **5 kyu:** 5 задач
 - **4 kyu:** 2 задачи
 
@@ -117,6 +117,9 @@
 | Дата | Задачи |
 |------|--------|
 | 06.03 | 8 kyu: `count_by_x.py` `super_duper_easy.py`, `total_amount_of_points.py` • 5 kyu: `calculating_with_functions.py` |
+| 07.03 | 7 kyu: `regex_validate_pin_code.py`, `remove_the_minimum.py`, `complementary_dna.py` • 6 kyu: `three_added_characters.py` |
+| 08.03 | 8 kyu: `will_there_be_enough_space.py`, `if_you_cant_sleep_just_count_sheep.py` • 7 kyu: `the_highest_profit_wins.py` • 6 kyu: `create_a_frame.py` |
+| 09.03 | 8 kyu: `l1_set_alarm.py`, `hex_to_decimal.py` `thinkful_logic_drills_traffic_light.py` • 7 kyu: `count_the_digit.py`, `alternate_capitalization.py` • 6 kyu: `thinkful_logic_drills_red_and_bumpy.py` |
 
 ---
 
@@ -124,7 +127,7 @@
 
 ### Статистика
 - **Easy:** 22 задач
-- **Medium:** 12 задач
+- **Medium:** 14 задач
 
 ### Детальный лог
 
@@ -164,6 +167,8 @@
 | 06.03 | Easy | `check_if_binary_string_has_at_most_one_segment_of_ones.py` | 100% скорость, 41.18% память |
 | 06.03 | Easy | `convert_the_temperature.py` | 100% скорость, 42.96% память |
 | 06.03 | Easy | `find_words_containing_character.py` | 100% скорость, 56.23% память |
+| 09.03 | Medium | `strictly_palindromic_number.py` | 100% скорость, 49.13% память |
+| 09.03 | Medium | `minimum_number_of_operations_to_move_all_balls_to_each_box.py` | 99.29% скорость, 94.27% память |
 
 ---
 
@@ -189,6 +194,7 @@
 
 ### Django
 - **Введение**: Установка, создание проектов, приложений (06.03)
+- **Представление и маршрутизация**: Обработка запросов, определние маршрутов, передача значений в функцию (09.03)
 
 ---
 
@@ -196,8 +202,8 @@
 
 | Платформа | Всего задач | Детали |
 |-----------|-------------|--------|
-| **Codewars** | 69 задач | 8 kyu: 22, 7 kyu: 18, 6 kyu: 23, 5 kyu: 4, 4 kyu: 2 |
-| **Leetcode** | 25 задач | Easy: 16, Medium: 9 |
+| **Codewars** | 90 задач | 8 kyu: 32, 7 kyu: 24, 6 kyu: 27, 5 kyu: 5, 4 kyu: 2 |
+| **Leetcode** | 36 задач | Easy: 22, Medium: 14 |
 | **Практика** | 12 тем | ООП, декораторы, датаклассы и др. |
 
-**Прогресс:** 32 дня обучения, 53 часа
+**Прогресс:** 35 дней обучения, 59 часов
