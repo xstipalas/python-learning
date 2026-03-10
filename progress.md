@@ -1,4 +1,4 @@
-# 🐍 PYTHON (59ч.)
+# 🐍 PYTHON (60ч.)
 
 ## 📌 Описание
 ---
@@ -57,7 +57,7 @@
 ### Статистика по уровням сложности
 - **8 kyu:** 32 задач
 - **7 kyu:** 24 задачи
-- **6 kyu:** 27 задач
+- **6 kyu:** 29 задач
 - **5 kyu:** 5 задач
 - **4 kyu:** 2 задачи
 
@@ -120,6 +120,7 @@
 | 07.03 | 7 kyu: `regex_validate_pin_code.py`, `remove_the_minimum.py`, `complementary_dna.py` • 6 kyu: `three_added_characters.py` |
 | 08.03 | 8 kyu: `will_there_be_enough_space.py`, `if_you_cant_sleep_just_count_sheep.py` • 7 kyu: `the_highest_profit_wins.py` • 6 kyu: `create_a_frame.py` |
 | 09.03 | 8 kyu: `l1_set_alarm.py`, `hex_to_decimal.py` `thinkful_logic_drills_traffic_light.py` • 7 kyu: `count_the_digit.py`, `alternate_capitalization.py` • 6 kyu: `thinkful_logic_drills_red_and_bumpy.py` |
+| 10.03 | 6 kyu: `separate_the_wheat_from_the_chaff.py`, `free_pizza.py` |
 
 ---
 
@@ -206,4 +207,4 @@
 | **Leetcode** | 36 задач | Easy: 22, Medium: 14 |
 | **Практика** | 12 тем | ООП, декораторы, датаклассы и др. |
 
-**Прогресс:** 35 дней обучения, 59 часов
+**Прогресс:** 36 дней обучения, 60 часов
