@@ -1,4 +1,4 @@
-# 🐍 PYTHON (60ч.)
+# 🐍 PYTHON (64ч.)
 
 ## 📌 Описание
 ---
@@ -55,9 +55,9 @@
 ## ⚔️ Codewars
 
 ### Статистика по уровням сложности
-- **8 kyu:** 32 задач
+- **8 kyu:** 33 задач
 - **7 kyu:** 24 задачи
-- **6 kyu:** 29 задач
+- **6 kyu:** 32 задач
 - **5 kyu:** 5 задач
 - **4 kyu:** 2 задачи
 
@@ -121,6 +121,16 @@
 | 08.03 | 8 kyu: `will_there_be_enough_space.py`, `if_you_cant_sleep_just_count_sheep.py` • 7 kyu: `the_highest_profit_wins.py` • 6 kyu: `create_a_frame.py` |
 | 09.03 | 8 kyu: `l1_set_alarm.py`, `hex_to_decimal.py` `thinkful_logic_drills_traffic_light.py` • 7 kyu: `count_the_digit.py`, `alternate_capitalization.py` • 6 kyu: `thinkful_logic_drills_red_and_bumpy.py` |
 | 10.03 | 6 kyu: `separate_the_wheat_from_the_chaff.py`, `free_pizza.py` |
+| 11.03 | 8 kyu: `determine_offspring_sex_based_on_genes_xx_and_xy_chromosomes.py` • 6 kyu: `sort_strings_by_most_contiguous_vowels.py`, `who_likes_it.py` `create_phone_number.py` |
+| 12.03 | 6 kyu: `sum_of_digits_digital_root.py`, `bit_counting.py` `convert_string_to_camel_case.py` • 5 kyu `moving_zeros_to_the_end.py` |
+
+### Неделя 7 (14.03 - 20.03)
+| Дата | Задачи |
+|------|--------|
+| 14.03 | 8 kyu: `training_js_if_else_and_ternary_operator.py` • 7 kyu: `sequence_to_one.py` • 6 kyu: `non_even_substrings.py` |
+| 16.03 | 8 kyu: `what_is_between.py` • 7 kyu: `sum_of_odd_numbers.py` • 5 kyu: `mean_square_error.py` |
+| 17.03 | 8 kyu: `parse_nice_int_from_char_problem.py` • 7 kyu: `binary_addition.py` • 6 kyu: `decode_the_morse_code.py`, `is_a_number_prime.py` |
+| 21.03 | 6 kyu: `multiplication_table.py` • 5 kyu: `simple_pig_latin.py`, `human_readable_time.py`, `the_hashtag_generator.py` |
 
 ---
 
@@ -170,6 +180,12 @@
 | 06.03 | Easy | `find_words_containing_character.py` | 100% скорость, 56.23% память |
 | 09.03 | Medium | `strictly_palindromic_number.py` | 100% скорость, 49.13% память |
 | 09.03 | Medium | `minimum_number_of_operations_to_move_all_balls_to_each_box.py` | 99.29% скорость, 94.27% память |
+| 12.03 | Easy | `number_of_good_pairs.py` | 100% скорость, 83.21% память |
+| 17.03 | Easy | `convert_date_to_binary.py` | 100% скорость, 77.86% память |
+| 17.03 | Easy | `richest_customer_wealth.py` | 100% скорость, 74.79% память |
+| 17.03 | Easy | `reverse_degree_of_a_string.py` | 87.73% скорость, 99.52% память |
+| 21.03 | Easy | `flip_square_submatrix_vertically.py` | 100% скорость, 69.79% память |
+| 21.03 | Easy | `goal_parser_interpretation.py` | 71.43% скорость, 73.95% память |
 
 ---
 
@@ -207,4 +223,4 @@
 | **Leetcode** | 36 задач | Easy: 22, Medium: 14 |
 | **Практика** | 12 тем | ООП, декораторы, датаклассы и др. |
 
-**Прогресс:** 36 дней обучения, 60 часов
+**Прогресс:** 41 день обучения, 64 часа
