@@ -1,0 +1,2 @@
+def order_weight(strng: str) -> str:
+    return ' '.join(sorted(strng.split(), key=lambda x: (sum(map(int, x)), x)))

@@ -1,4 +1,4 @@
-# 🐍 PYTHON (64ч.)
+# 🐍 PYTHON (65ч.)
 
 ## 📌 Описание
 ---
@@ -131,6 +131,8 @@
 | 16.03 | 8 kyu: `what_is_between.py` • 7 kyu: `sum_of_odd_numbers.py` • 5 kyu: `mean_square_error.py` |
 | 17.03 | 8 kyu: `parse_nice_int_from_char_problem.py` • 7 kyu: `binary_addition.py` • 6 kyu: `decode_the_morse_code.py`, `is_a_number_prime.py` |
 | 21.03 | 6 kyu: `multiplication_table.py` • 5 kyu: `simple_pig_latin.py`, `human_readable_time.py`, `the_hashtag_generator.py` |
+| 23.03 | 5 kyu: `pete_the_baker.py`, `weight_for_weight.py`, `count_ip_addresses.py` |
+| 27.03 | 8 kyu: `reversed_strings.py` • 7 kyu: `vowel_count.py` |
 
 ---
 
@@ -186,6 +188,7 @@
 | 17.03 | Easy | `reverse_degree_of_a_string.py` | 87.73% скорость, 99.52% память |
 | 21.03 | Easy | `flip_square_submatrix_vertically.py` | 100% скорость, 69.79% память |
 | 21.03 | Easy | `goal_parser_interpretation.py` | 71.43% скорость, 73.95% память |
+| 23.03 | Easy | `how_many_numbers_are_smaller_than_the_current_number.py` | 83.19% скорость, 82.11% память |
 
 ---
 
@@ -223,4 +226,4 @@
 | **Leetcode** | 36 задач | Easy: 22, Medium: 14 |
 | **Практика** | 12 тем | ООП, декораторы, датаклассы и др. |
 
-**Прогресс:** 41 день обучения, 64 часа
+**Прогресс:** 43 дня обучения, 65 часов
