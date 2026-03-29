@@ -1,4 +1,4 @@
-# 🐍 PYTHON (65ч.)
+# 🐍 PYTHON (66ч.)
 
 ## 📌 Описание
 ---
@@ -133,6 +133,7 @@
 | 21.03 | 6 kyu: `multiplication_table.py` • 5 kyu: `simple_pig_latin.py`, `human_readable_time.py`, `the_hashtag_generator.py` |
 | 23.03 | 5 kyu: `pete_the_baker.py`, `weight_for_weight.py`, `count_ip_addresses.py` |
 | 27.03 | 8 kyu: `reversed_strings.py` • 7 kyu: `vowel_count.py` |
+| 29.03 | 6 kyu: `weird_string_case.py`, `ip_validation.py`, `make_the_deadfish_swim.py` |
 
 ---
 
@@ -226,4 +227,4 @@
 | **Leetcode** | 36 задач | Easy: 22, Medium: 14 |
 | **Практика** | 12 тем | ООП, декораторы, датаклассы и др. |
 
-**Прогресс:** 43 дня обучения, 65 часов
+**Прогресс:** 44 дня обучения, 66 часов
