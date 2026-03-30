@@ -1,4 +1,4 @@
-# 🐍 PYTHON (66ч.)
+# 🐍 PYTHON (67ч.)
 
 ## 📌 Описание
 ---
@@ -124,7 +124,7 @@
 | 11.03 | 8 kyu: `determine_offspring_sex_based_on_genes_xx_and_xy_chromosomes.py` • 6 kyu: `sort_strings_by_most_contiguous_vowels.py`, `who_likes_it.py` `create_phone_number.py` |
 | 12.03 | 6 kyu: `sum_of_digits_digital_root.py`, `bit_counting.py` `convert_string_to_camel_case.py` • 5 kyu `moving_zeros_to_the_end.py` |
 
-### Неделя 7 (14.03 - 20.03)
+### Неделя 7 (14.03 - 29.03)
 | Дата | Задачи |
 |------|--------|
 | 14.03 | 8 kyu: `training_js_if_else_and_ternary_operator.py` • 7 kyu: `sequence_to_one.py` • 6 kyu: `non_even_substrings.py` |
@@ -134,6 +134,11 @@
 | 23.03 | 5 kyu: `pete_the_baker.py`, `weight_for_weight.py`, `count_ip_addresses.py` |
 | 27.03 | 8 kyu: `reversed_strings.py` • 7 kyu: `vowel_count.py` |
 | 29.03 | 6 kyu: `weird_string_case.py`, `ip_validation.py`, `make_the_deadfish_swim.py` |
+
+### Неделя 8 (30.03 - )
+| Дата | Задачи |
+|------|--------|
+| 30.03 | 6 kyu: `help_the_bookseller.py`, `good_vs_evil.py`, `sums_of_parts.py` |
 
 ---
 
@@ -227,4 +232,4 @@
 | **Leetcode** | 36 задач | Easy: 22, Medium: 14 |
 | **Практика** | 12 тем | ООП, декораторы, датаклассы и др. |
 
-**Прогресс:** 44 дня обучения, 66 часов
+**Прогресс:** 45 дней обучения, 67 часов
