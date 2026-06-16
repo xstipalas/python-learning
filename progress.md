@@ -1,9 +1,9 @@
-# 🐍 PYTHON (67ч.)
+# 🐍 PYTHON (70ч.)
 
 ## 📌 Описание
 ---
 Решил заняться структуризацией своих знаний о языке Python.
-Буду загружать сюда задания с сайтов (codewars, leetcode), что-нибудь из курсов (stepik), особенности синтаксиса — все, что двигает меня вперед в изучении языка.
+Буду загружать сюда задания с сайтов (Codewars, Leetcode), что-нибудь из курсов (Stepik), особенности синтаксиса — все, что двигает меня вперед в изучении языка.
 С этого момента собираюсь отслеживать время, потраченное на учебу. Постараюсь учиться по 2 часа в день, предположительно с 14 до 16 часов.
 ---
 
@@ -55,9 +55,9 @@
 ## ⚔️ Codewars
 
 ### Статистика по уровням сложности
-- **8 kyu:** 33 задач
+- **8 kyu:** 33 задачи
 - **7 kyu:** 24 задачи
-- **6 kyu:** 32 задач
+- **6 kyu:** 32 задачи
 - **5 kyu:** 5 задач
 - **4 kyu:** 2 задачи
 
@@ -113,18 +113,18 @@
 | 04.03 | 8 kyu: `even_or_odd.py`, `name_shuffler.py`, `grasshopper_terminal_game_move_function.py` • 6 kyu: `simple_encryption_alternating_split.py` |
 | 05.03 | 8 kyu: `abbreviate_a_two_word_name.py`, `beginner_lost_without_a_map.py` • 6 kyu: `give_me_a_diamond.py` |
 
-### Неделя 6 (06.03 - 12.03)
+#### Неделя 6 (06.03 - 12.03)
 | Дата | Задачи |
 |------|--------|
-| 06.03 | 8 kyu: `count_by_x.py` `super_duper_easy.py`, `total_amount_of_points.py` • 5 kyu: `calculating_with_functions.py` |
+| 06.03 | 8 kyu: `count_by_x.py`, `super_duper_easy.py`, `total_amount_of_points.py` • 5 kyu: `calculating_with_functions.py` |
 | 07.03 | 7 kyu: `regex_validate_pin_code.py`, `remove_the_minimum.py`, `complementary_dna.py` • 6 kyu: `three_added_characters.py` |
 | 08.03 | 8 kyu: `will_there_be_enough_space.py`, `if_you_cant_sleep_just_count_sheep.py` • 7 kyu: `the_highest_profit_wins.py` • 6 kyu: `create_a_frame.py` |
-| 09.03 | 8 kyu: `l1_set_alarm.py`, `hex_to_decimal.py` `thinkful_logic_drills_traffic_light.py` • 7 kyu: `count_the_digit.py`, `alternate_capitalization.py` • 6 kyu: `thinkful_logic_drills_red_and_bumpy.py` |
+| 09.03 | 8 kyu: `l1_set_alarm.py`, `hex_to_decimal.py`, `thinkful_logic_drills_traffic_light.py` • 7 kyu: `count_the_digit.py`, `alternate_capitalization.py` • 6 kyu: `thinkful_logic_drills_red_and_bumpy.py` |
 | 10.03 | 6 kyu: `separate_the_wheat_from_the_chaff.py`, `free_pizza.py` |
-| 11.03 | 8 kyu: `determine_offspring_sex_based_on_genes_xx_and_xy_chromosomes.py` • 6 kyu: `sort_strings_by_most_contiguous_vowels.py`, `who_likes_it.py` `create_phone_number.py` |
-| 12.03 | 6 kyu: `sum_of_digits_digital_root.py`, `bit_counting.py` `convert_string_to_camel_case.py` • 5 kyu `moving_zeros_to_the_end.py` |
+| 11.03 | 8 kyu: `determine_offspring_sex_based_on_genes_xx_and_xy_chromosomes.py` • 6 kyu: `sort_strings_by_most_contiguous_vowels.py`, `who_likes_it.py`, `create_phone_number.py` |
+| 12.03 | 6 kyu: `sum_of_digits_digital_root.py`, `bit_counting.py`, `convert_string_to_camel_case.py` • 5 kyu: `moving_zeros_to_the_end.py` |
 
-### Неделя 7 (14.03 - 29.03)
+#### Неделя 7 (14.03 - 29.03)
 | Дата | Задачи |
 |------|--------|
 | 14.03 | 8 kyu: `training_js_if_else_and_ternary_operator.py` • 7 kyu: `sequence_to_one.py` • 6 kyu: `non_even_substrings.py` |
@@ -135,17 +135,29 @@
 | 27.03 | 8 kyu: `reversed_strings.py` • 7 kyu: `vowel_count.py` |
 | 29.03 | 6 kyu: `weird_string_case.py`, `ip_validation.py`, `make_the_deadfish_swim.py` |
 
-### Неделя 8 (30.03 - )
+#### Неделя 8 (30.03 - 27.04)
 | Дата | Задачи |
 |------|--------|
 | 30.03 | 6 kyu: `help_the_bookseller.py`, `good_vs_evil.py`, `sums_of_parts.py` |
+| 07.04 | 8 kyu: `squaring_an_argument.py` |
+| 16.04 | 6 kyu: `statistics_for_an_athletic_association.py` |
+| 18.04 | 5 kyu: `car_rental_business_needs_statistics_and_programming.py` |
+| 19.04 | 7 kyu: `distance_from_the_average.py` |
+| 20.04 | 6 kyu: `process_waterfowl_survey_data_results.py` |
+| 27.04 | 7 kyu: `histogram_data.py` |
+
+#### Неделя 9 (12.06 -)
+| Дата | Задачи |
+|------|--------|
+| 13.06 | 7 kyu: `picking_the_best_casino_game.py` |
+| 16.06 | 6 kyu: `guess_who.py` |
 
 ---
 
 ## 💻 Leetcode
 
 ### Статистика
-- **Easy:** 22 задач
+- **Easy:** 22 задачи
 - **Medium:** 14 задач
 
 ### Детальный лог
@@ -220,7 +232,7 @@
 
 ### Django
 - **Введение**: Установка, создание проектов, приложений (06.03)
-- **Представление и маршрутизация**: Обработка запросов, определние маршрутов, передача значений в функцию (09.03)
+- **Представление и маршрутизация**: Обработка запросов, определение маршрутов, передача значений в функцию (09.03)
 
 ---
 
@@ -228,8 +240,8 @@
 
 | Платформа | Всего задач | Детали |
 |-----------|-------------|--------|
-| **Codewars** | 90 задач | 8 kyu: 32, 7 kyu: 24, 6 kyu: 27, 5 kyu: 5, 4 kyu: 2 |
-| **Leetcode** | 36 задач | Easy: 22, Medium: 14 |
+| **Codewars** | 96 задач | 8 kyu: 33, 7 kyu: 24, 6 kyu: 32, 5 kyu: 5, 4 kyu: 2 |
+| **Leetcode** | 42 задачи | Easy: 28, Medium: 14 |
 | **Практика** | 12 тем | ООП, декораторы, датаклассы и др. |
 
-**Прогресс:** 45 дней обучения, 67 часов
+**Прогресс:** 50 дней обучения, 70 часов
