@@ -151,6 +151,8 @@
 |------|--------|
 | 13.06 | 7 kyu: `picking_the_best_casino_game.py` |
 | 16.06 | 6 kyu: `guess_who.py` |
+| 22.06 | 7 kyu: `testing_one_two_three.py` |
+| 23.06 | 7 kyu: `ultrasonic_distance_analysis.py` • 6 kyu: `the_five_love_languages.py` |
 
 ---
 
